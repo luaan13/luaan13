@@ -5,6 +5,5 @@
 - 📫 Como entrar em contato comigo: atrevés do meu email luannbrto@gmail.com
 - 🌱 Atualmente estou aprendendo programação em javascript, cursando na alura <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
-<div> <a href="https://github.com/luaan13"> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luaan13&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=luaan13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+![Captura de tela 2024-07-09 140054](https://github.com/luaan13/luaan13/assets/166620389/29db189a-31bd-48e8-b553-0f3642f3a845 "Captura de tela 2024-07-09 140054")
 
-  ![Snake animation](https://github.com/luaan13/luaan13/blob/output/github-contribution-grid-snake.svg)
