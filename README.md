@@ -1,4 +1,4 @@
-# Olá, me chamo SeuNomeAqui ! 
+# Olá, me chamo Luan ! 
 ## Bem vindo ao meu perfil GitHub 👋 
 - 🔭 Atualmente não estou trabalhando
 - 👯 Estou procurando me especializar em programação
